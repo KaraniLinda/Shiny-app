@@ -1,0 +1,13 @@
+name: Shiny-app
+title: Shiny-app
+username:
+account: linda-karani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6897011
+bundleId: 6259427
+url: https://linda-karani.shinyapps.io/Shiny-app/
+when: 1662042039.39564
+lastSyncTime: 1662042039.39566
+asMultiple: FALSE
+asStatic: FALSE

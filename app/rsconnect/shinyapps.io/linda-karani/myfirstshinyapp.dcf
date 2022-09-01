@@ -1,0 +1,13 @@
+name: myfirstshinyapp
+title: myfirstshinyapp
+username:
+account: linda-karani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6896612
+bundleId: 6259264
+url: https://linda-karani.shinyapps.io/myfirstshinyapp/
+when: 1662039661.59893
+lastSyncTime: 1662039661.59895
+asMultiple: FALSE
+asStatic: FALSE
