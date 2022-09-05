@@ -5,9 +5,9 @@ account: linda-karani
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6896612
-bundleId: 6259264
+bundleId: 6269570
 url: https://linda-karani.shinyapps.io/myfirstshinyapp/
-when: 1662039661.59893
-lastSyncTime: 1662039661.59895
+when: 1662372913.50684
+lastSyncTime: 1662372913.50685
 asMultiple: FALSE
 asStatic: FALSE
